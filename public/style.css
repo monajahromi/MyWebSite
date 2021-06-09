@@ -1,0 +1,9 @@
+section {
+    padding: 80px;
+    position: relative;
+}
+
+::-webkit-scrollbar {
+    width: 9px;
+    background-color: #999999;
+}
